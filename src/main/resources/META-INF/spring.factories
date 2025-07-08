@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-        com.seelyn.apiwrap.ApiWrapAutoConfiguration
+        com.tenyun7.config.ZaidAutoConfiguration
